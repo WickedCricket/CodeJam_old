@@ -1,6 +1,6 @@
 **[NAME OF PROGRAM]**
 
-**Noroff CodeJam 2022**
+Noroff CodeJam 2022
 
 
 
