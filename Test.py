@@ -42,3 +42,5 @@ while CAN_loop:
                     print(george_ok)
                     sleep(0.3)
                     can_do = True
+
+print(1)
